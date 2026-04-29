@@ -78,7 +78,7 @@ rpicam-jpeg -o test.jpeg --camera 1
 
 ## Clone this repository
 ```bash
-git clone https://github.com/Magaiarsa/osmiaGH.git
+git clone git@github.com:Crall-Lab/osmiaGreenhouse.git
 ```
 Move all contents of this repositoty into home directory ('~'). You can do it in the GUI, or input this into the terminal:
 ```bash
